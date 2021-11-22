@@ -1,5 +1,7 @@
-                                                              Sentiment Based Product Recommendation System
-                                                                            Palak Kakkar
+                                                                Sentiment Based Product Recommendation System
+
+                                                                              Palak Kakkar
+
 Problem Statement:
 The e-commerce business is quite popular today. Here, you do not need to take orders by going to each customer. A company launches its website to sell the items to the end consumer, and customers can order the products that they require from the same website. Famous examples of such e-commerce companies are Amazon, Flipkart, Myntra, Paytm and Snapdeal.
 
@@ -9,9 +11,9 @@ With the advancement in technology, it is imperative for Ebuss to grow quickly i
  
 As a senior ML Engineer, I'll be building a model that will improve the recommendations given to the users given their past reviews and ratings
 
-**Useful links: **
+Useful links: 
 
-**Github Repository: https://github.com/palak0509/PalakKakkar--Sentiment-based-Product-Recommendation-System
+Github Repository: https://github.com/palak0509/PalakKakkar--Sentiment-based-Product-Recommendation-System
 
-**Heroku App:https://palak-sbprs.herokuapp.com/ **
-**
+Heroku App:https://palak-sbprs.herokuapp.com/ 
+
